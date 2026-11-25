@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Mac WiFi Picker</string>
+	<key>CFBundleExecutable</key>
+	<string>WiFiPickerHost</string>
+	<key>CFBundleIdentifier</key>
+	<string>io.github.ruodou233.MacWiFiPicker</string>
+	<key>CFBundleIconFile</key>
+	<string>MacWiFiPicker.icns</string>
+	<key>CFBundleName</key>
+	<string>Mac WiFi Picker</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.4</string>
+	<key>CFBundleVersion</key>
+	<string>16</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSMultipleInstancesProhibited</key>
+	<true/>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSLocationUsageDescription</key>
+	<string>用于显示附近Wi‑Fi网络的名称。Used to show the names of nearby Wi‑Fi networks.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>用于显示附近Wi‑Fi网络的名称。Used to show the names of nearby Wi‑Fi networks.</string>
+	<key>NSSupportsAutomaticTermination</key>
+	<false/>
+</dict>
+</plist>
